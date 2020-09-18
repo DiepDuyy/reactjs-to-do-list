@@ -1,0 +1,17 @@
+.isClose {
+    opacity: 0;
+    visibility: hidden;
+}
+
+span.label {
+    cursor: pointer;
+}
+
+.nutdong {
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
